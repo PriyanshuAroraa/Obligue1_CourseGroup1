@@ -1,0 +1,175 @@
+#bodyHome {
+    background-image: url("Photos/background1.png");
+    background-size: 100% 100%;
+    height: 900px;
+    width: 1435px;
+}
+
+#bodyPortfolio {
+    background-image: url("Photos/background1.png");
+    background-size: 100% 100%;
+    height: 1400px;
+    width: 1435px;
+}
+
+#bodyAbout {
+    background-image: url("Photos/background1.png");
+    background-size: 100% 100%;
+    height: 800px;
+    width: 1435px;
+}
+
+#bodyResume {
+    background-image: url("Photos/background1.png");
+    background-size: 100% 100%;
+    height: 1350px;
+    width: 1435px;
+}
+
+#container {
+    height: 800px;
+    width: 1435px;
+}
+
+.name2 {
+    color: antiquewhite;
+    font-family: 'Droid serif', serif;
+    font-size: 20px;
+    font-weight: 400;
+    font-style: italic;
+    text-align: center;
+    padding: 5px;
+}
+
+#name1 {
+    color: antiquewhite;
+    font-family: 'Lato', sans-serif;
+    font-size: 54px;
+    font-weight: 300;
+    text-align: center;
+    text-shadow: 0 2px 2px #d94f5c;
+}
+
+#header {
+    height: 70%;
+    width: 45%;
+    padding-top: 70px;
+    margin: auto;
+    line-height: 1px;
+}
+
+#imgSalah {
+    height: auto;
+    width: 75%;
+    margin: auto;
+    display: block;
+}
+
+#footer {
+    height: 7%;
+    width: 100%;
+    margin-top: 55px;
+    position: fixed;
+}
+
+#footerPortfolio {
+    height: 7%;
+    width: 100%;
+    margin-top: 70px;
+}
+
+#footerResume {
+    height: 7%;
+    width: 100%;
+    margin-top: 130px;
+}
+
+ul {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    max-width: 720px;
+    margin: 0 auto;
+    list-style: none;
+}
+
+
+
+  .navtext {
+    color: antiquewhite;
+    font-family: 'Oswald', sans-serif;
+    font-size: 22px;
+    font-weight: 500;
+    letter-spacing: 1.1px;
+    margin-right: 90px;
+    text-transform: uppercase;
+    display: inline-block;
+    padding: 13px;
+}
+
+#hobby {
+    margin: 0;
+    padding-left: 1.2rem;
+  }
+  
+.navtext:hover {
+    color: #d94f5c;
+    opacity: .8;
+    transition: all 0.45s;
+}
+
+.logo {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.description {
+    color: antiquewhite;
+    font-size: 18px;
+    text-align: center;
+    line-height: 25px;
+    display: inherit;
+}
+
+.name {
+    color: #d94f5c;
+    text-align: center;
+}
+
+.divider{
+    width: 75%;
+    height: 20%;
+    margin-left: 300px;
+}
+
+.hr1{
+    margin-top: 50px;
+    width: 75%;
+    margin-left: 300px;
+}
+
+.imgdivider{
+    width: 30%;
+    height: 100%;
+}
+
+.txtdivider{
+    width: 68%;
+    height: 100%;
+    float: right;
+}
+
+.SalahImg2{
+    width: 80%;
+    height: auto;
+    border-style: solid;
+    color: #d94f5c;
+    margin-top: 30px;
+} 
+
+#myWork{
+    width: 75%;
+    height: 7%;
+    margin-left: 300px;
+}
