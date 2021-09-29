@@ -26,12 +26,7 @@
     width: 1435px;
 }
 
-#container {
-    height: 800px;
-    width: 1435px;
-}
-
-.name2 {
+.text-desc {
     color: antiquewhite;
     font-family: 'Droid serif', serif;
     font-size: 20px;
@@ -41,7 +36,7 @@
     padding: 5px;
 }
 
-#name1 {
+.title {
     color: antiquewhite;
     font-family: 'Lato', sans-serif;
     font-size: 54px;
@@ -58,14 +53,14 @@
     line-height: 1px;
 }
 
-#imgSalah {
+#SalahHomePage {
     height: auto;
     width: 75%;
     margin: auto;
     display: block;
 }
 
-#footer {
+#footerHomePage {
     height: 7%;
     width: 100%;
     margin-top: 55px;
@@ -73,6 +68,12 @@
 }
 
 #footerPortfolio {
+    height: 7%;
+    width: 100%;
+    margin-top: 70px;
+}
+
+#footerAbout {
     height: 7%;
     width: 100%;
     margin-top: 70px;
@@ -93,9 +94,7 @@ ul {
     list-style: none;
 }
 
-
-
-  .navtext {
+.footer-text {
     color: antiquewhite;
     font-family: 'Oswald', sans-serif;
     font-size: 22px;
@@ -106,13 +105,8 @@ ul {
     display: inline-block;
     padding: 13px;
 }
-
-#hobby {
-    margin: 0;
-    padding-left: 1.2rem;
-  }
   
-.navtext:hover {
+.footer-text:hover {
     color: #d94f5c;
     opacity: .8;
     transition: all 0.45s;
@@ -132,44 +126,38 @@ ul {
     display: inherit;
 }
 
-.name {
+.subtitle {
     color: #d94f5c;
     text-align: center;
 }
 
-.divider{
+.box-desc {
     width: 75%;
     height: 20%;
     margin-left: 300px;
 }
 
-.hr1{
+.line {
     margin-top: 50px;
     width: 75%;
     margin-left: 300px;
 }
 
-.imgdivider{
+.box-img {
     width: 30%;
     height: 100%;
 }
 
-.txtdivider{
+.textbox {
     width: 68%;
     height: 100%;
     float: right;
 }
 
-.SalahImg2{
+.PortfolioImg {
     width: 80%;
     height: auto;
     border-style: solid;
     color: #d94f5c;
     margin-top: 30px;
 } 
-
-#myWork{
-    width: 75%;
-    height: 7%;
-    margin-left: 300px;
-}
